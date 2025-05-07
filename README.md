@@ -1,8 +1,10 @@
 # High Performance Cardiovascular Signal Classification System
 ![Banner](https://github.com/Aaryanraj1818/High-Performance-ECG-Classification/blob/main/banner.png?raw=true)
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-username/your-repository/actions)  <!-- Replace with your own build status badge link -->
-[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)  <!-- Replace with your own license badge link -->
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Repo Size](https://img.shields.io/github/repo-size/Aaryanraj1818/High-Performance-ECG-Classification)
+![Last Commit](https://img.shields.io/github/last-commit/Aaryanraj1818/High-Performance-ECG-Classification)
 
 This repository contains MATLAB scripts and functions developed for my final year project: a deep learning-based ECG signal classification system using time-frequency representations.
 
