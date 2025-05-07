@@ -1,10 +1,6 @@
 # High Performance Cardiovascular Signal Classification System
 ![Banner](https://github.com/Aaryanraj1818/High-Performance-ECG-Classification/blob/main/banner.png?raw=true)
 
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Repo Size](https://img.shields.io/github/repo-size/Aaryanraj1818/High-Performance-ECG-Classification)
-![Last Commit](https://img.shields.io/github/last-commit/Aaryanraj1818/High-Performance-ECG-Classification)
 
 This repository contains MATLAB scripts and functions developed for my final year project: a deep learning-based ECG signal classification system using time-frequency representations.
 
@@ -73,8 +69,12 @@ High-Performance-Cardiovascular-Signal-Classification-System/
 
 ## 👤 Author
 Aaryan Raj
+
 🎓 Department of Computer Science & Engineering
+
 🏫 National Institute of Technology, Calicut
+
 📧 aaryanraj1818@gmail.com
+
 💻 GitHub: Aaryanraj1818
 
