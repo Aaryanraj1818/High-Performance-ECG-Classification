@@ -73,8 +73,8 @@ High-Performance-Cardiovascular-Signal-Classification-System/
 
 ## 👤 Author
 Aaryan Raj
-Department of Computer Science & Engineering  
-National Institute of Technology, Calicut
-Email: [aaryanraj1818@gmail.com]
-
+🎓 Department of Computer Science & Engineering
+🏫 National Institute of Technology, Calicut
+📧 aaryanraj1818@gmail.com
+💻 GitHub: Aaryanraj1818
 
