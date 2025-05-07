@@ -1,0 +1,19 @@
+# Ignore MATLAB binary files
+*.fig
+*.mat
+*.asv
+*.mdl
+*.slx
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Ignore logs
+*.log
+
+# Ignore Git LFS tracking file if not needed
+.gitattributes
+
