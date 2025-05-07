@@ -1,5 +1,5 @@
 # High Performance Cardiovascular Signal Classification System
-![Banner](https://github.com/Aaryanraj1818/High-Performance-ECG-Classification/blob/main/ChatGPT%20Image%20May%207,%202025%20at%2006_46_59%20PM.png?raw=true)
+![Banner](https://github.com/Aaryanraj1818/High-Performance-ECG-Classification/blob/main/banner.png?raw=true)
 
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-username/your-repository/actions)  <!-- Replace with your own build status badge link -->
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)  <!-- Replace with your own license badge link -->
