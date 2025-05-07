@@ -12,11 +12,13 @@ The goal of this project is to classify ECG signals into three cardiac condition
 - **Normal Sinus Rhythm (NSR)**
 
 ## 🔍 Methodology
+1. **Dataset
+- Source: [PhysioNet](https://physionet.org/)
+- 162 patient ECG recordings
 
-1. **Signal Preprocessing:**
-   - ECG signals obtained from PhysioNet.
+2. **Signal Preprocessing:**
    - Each recording contains 65,536 samples.
-   - Divided into chunks of 500 samples.
+   - Divided into 20 chunks of 500 samples each.
    - 30 recordings per class selected for balanced data.
 
 2. **Time-Frequency Transformation:**
@@ -55,5 +57,9 @@ physionet_ECG_data-main/
 └── Models/
 
 ## 👤 Author
-Aaryan Raj - Department of Computer Science & Engineering  
+Aaryan Raj - 
+Department of Computer Science & Engineering  
 National Institute of Technology, Calicut
+Email: [aaryanraj1818@gmail.com]
+
+
